@@ -34,9 +34,6 @@ windata%>%
   filter(year(Newdate) = 2013)%>%
   plot()
 
-#Adding this to test merging skills
-#Hope it works
 
-#Worked perfertly well. Now lets see if this addition will be pulled in
 
 
